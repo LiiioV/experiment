@@ -70,3 +70,6 @@
 <img width="3051" height="1502" alt="image" src="https://github.com/user-attachments/assets/b779df28-77ef-45bf-a864-70430f63ce0b" />
      
 **Вывод:** Результаты совподают
+
+- Результаты мини-тестов взяты напрямую из (github) [https://github.com/mouhamad-almakhour/A-Verification-Approach-for-Composite-Smart-Contracts-Security-using-FSM/blob/8a531248eedd65d0fad71f6d82a7f02d0c158eab/one%20smart%20contract/addsub/Verification_result]
+- Результат эксперимента из (статьи) [https://www.sciencedirect.com/science/article/pii/S1319157822003111]
