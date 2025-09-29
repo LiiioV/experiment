@@ -1,7 +1,6 @@
 # Experiment
 
 Пошаговое инструкция повторении эксперимента на `Ubuntu (64-bit)`:
-### PreRequirements
 1. Скачать `nuxmv`:
    - Скачиваем из `https://nuxmv.fbk.eu/`
    - `tar xf nuXmv-2.1.0-linux64.tar.xz`
